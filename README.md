@@ -22,6 +22,7 @@ CSS3 – Styling, layout, and responsiveness
 
 📸 Screenshots
 💻 Desktop View
+earcard.png
 
 
 📱 Mobile View
